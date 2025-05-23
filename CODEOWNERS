@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ndeepak
+/src/backend/database.py      @ndeepak
+/src/backend/routers/auth.py  @ndeepak
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ndeepak
